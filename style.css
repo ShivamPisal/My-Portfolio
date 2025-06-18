@@ -178,9 +178,8 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
+  height: 400px;
+  width: 300px;
   border-radius: 20px;
   margin: auto 0;
   background-color: rgb(207, 207, 207);
