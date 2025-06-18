@@ -177,11 +177,13 @@ section {
 .section__pic-container {
   display: flex;
   justify-content: center;
-  height: 400px;
-  width: 400px;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 20px;
   margin: auto 0;
   background-color: rgb(207, 207, 207);
-  border-radius: 20px;
 }
 
 .section__text {
